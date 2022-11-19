@@ -1,0 +1,24 @@
+.memoryBox-container {
+	columns: 3 25rem;
+	column-gap: 1.5rem;
+}
+.memoryBox {
+	margin-bottom: 1rem;
+	break-inside: avoid;
+}
+.memoryBox img {
+	width: 100%;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+}
+.memoryBox h3 {
+	font-size: 1.5rem;
+	color: rgb(46, 44, 44);
+	font-weight: 700;
+}
+
+.memoryBox span {
+	font-size: 1rem;
+	color: #2271ff;
+	font-weight: 700;
+}

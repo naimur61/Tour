@@ -1,0 +1,24 @@
+.home-header {
+	margin: 0 auto;
+	width: 100%;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.867) 0%, rgba(1, 1, 1, 0.134) 100%),
+		url(/src/Assets/images/services-spot/des-4.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	min-height: 80vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.font {
+	font-family: "Signika", sans-serif;
+	font-size: 30pt;
+	font-weight: 600;
+}
+
+.serviceLogo {
+	font-size: 4em;
+	color: #2271ff;
+	font-weight: 900;
+}

@@ -1,0 +1,7 @@
+.sld-btn {
+	background: rgba(59, 59, 59, 0.248);
+	transition: 1s;
+}
+.sld-btn:hover {
+	background: rgba(90, 90, 90, 0.687);
+}

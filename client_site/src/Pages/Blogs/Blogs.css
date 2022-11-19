@@ -1,0 +1,17 @@
+.bg-blogs {
+	margin: 0 auto;
+	width: 100%;
+	background: url(/src/Assets/images/iStock-1144409475-1120x630.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.blog-textBg {
+	font-family: "Poppins", sans-serif;
+	background-color: rgba(0, 0, 0, 0.55);
+	color: white;
+	padding: 15px 30px;
+	width: fit-content;
+	border-radius: 10px;
+	margin-top: 20px;
+}
